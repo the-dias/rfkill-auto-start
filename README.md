@@ -27,7 +27,7 @@ start(){
   `
   
   
-  Syntax may vary, you can check nvim dbus, but exit from nvim **only `:q!`**
+  Syntax may vary, you can check `nvim dbus`, but exit from nvim **only `:q!`**
   
   `rc-service unrfkill start` - for check working
   
