@@ -23,8 +23,8 @@ start(){
         rfkill unblock all
 }
   ```
-  `:wq - exit from nvim -_-
-  `
+  `:wq` - exit from nvim -_-
+  
   
   
   Syntax may vary, you can check `nvim dbus`, but exit from nvim **only `:q!`**
