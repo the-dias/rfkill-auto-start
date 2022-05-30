@@ -23,7 +23,7 @@ start(){
         rfkill unblock all
 }
   ```
-  `:wq
+  `:wq - exit from nvim -_-
   `
   
   
